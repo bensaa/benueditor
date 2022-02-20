@@ -1,5 +1,3 @@
-// g++ -O2 `pkg-config gtkmm-3.0 --cflags --libs gio-unix-2.0` ./*.cpp -o benu && ./benu
-
 #include <gtkmm/application.h>
 #include <gtkmm/window.h>
 #include "globals.h"
